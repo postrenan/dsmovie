@@ -1,9 +1,7 @@
-
-
-
-function App() {
+import Navbar from "./componentes/navbar"
+function App () {
   return (
-    <h1>Página principal</h1>
+    <Navbar/>
   );
 }
 
